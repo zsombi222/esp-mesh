@@ -1,0 +1,2 @@
+A programot cmd-ből kell futtatni. (A main.exe mappájában jobb klikk és megynitás a terminálban)
+majd a `.\main.exe COM4` beírásásval majd entert ütve futtatni azt. ha más a COM port a szaámítógépen, akkor azt kell megadni. Ezt a windows eszközkezelőben lehet ellenőrizni.
